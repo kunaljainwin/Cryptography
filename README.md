@@ -14,3 +14,4 @@
 - simple -columnar transposition cipher
 - vernam cipher
 - Two Square cipher
+- secret messages
